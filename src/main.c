@@ -146,7 +146,7 @@ void app_main()
         return;
     }
 
-    while (1)
+    while (true)
     {
         ESP_LOGI(TAG, "Taking picture...");
         camera_fb_t *pic = esp_camera_fb_get();

@@ -1,3 +1,3 @@
 cmake_minimum_required(VERSION 3.16.0)
-include($ENV{IDF_PATH}/tools/cmake/project.cmake)
+include(/home/qq/esp/esp-idf-v4.4.1/tools/cmake/project.cmake)
 project(CamTest)

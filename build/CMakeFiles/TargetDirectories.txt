@@ -1,0 +1,2 @@
+/home/qq/Documents/PlatformIO/Projects/CamTest/build/CMakeFiles/rebuild_cache.dir
+/home/qq/Documents/PlatformIO/Projects/CamTest/build/CMakeFiles/edit_cache.dir
